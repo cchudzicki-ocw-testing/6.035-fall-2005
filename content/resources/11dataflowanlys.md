@@ -6,7 +6,12 @@ description: 'This course covers the following topics: Dataflow Analysis, Progra
   and Summary etc.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/80d42de10044c47032e7149d0eefff66_11dataflowanlys.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 11dataflowanlys.pdf
+type: OCWFile
 uid: 80d42de1-0044-c470-32e7-149d0eefff66
 ---

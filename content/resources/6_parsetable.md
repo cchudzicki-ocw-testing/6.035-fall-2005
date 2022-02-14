@@ -7,7 +7,12 @@ description: 'This resource covers the following topics: Parse Tables (Review), 
   Example, Terminology, and Summary.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/bb19f1adbcf433355063c2c86127ebc8_6_parsetable.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 6_parsetable.pdf
+type: OCWFile
 uid: bb19f1ad-bcf4-3335-5063-c2c86127ebc8
 ---

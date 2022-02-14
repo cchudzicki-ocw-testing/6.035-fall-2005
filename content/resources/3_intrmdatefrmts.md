@@ -10,7 +10,12 @@ description: 'This resource covers the following topics: Program Representation 
   Representation etc.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/d9a1b8f4c941684ea04b7985fc92a441_3_intrmdatefrmts.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 3_intrmdatefrmts.pdf
+type: OCWFile
 uid: d9a1b8f4-c941-684e-a04b-7985fc92a441
 ---

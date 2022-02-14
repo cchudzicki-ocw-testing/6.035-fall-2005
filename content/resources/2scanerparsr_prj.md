@@ -5,7 +5,12 @@ description: 'This resource covers the following topics: Project Information, Sc
   ? Scanner, and Pragmatics ? Parser,'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/eb9d5c5c86fdf1cb589d241932ad8521_2scanerparsr_prj.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 2scanerparsr_prj.pdf
+type: OCWFile
 uid: eb9d5c5c-86fd-f1cb-589d-241932ad8521
 ---
