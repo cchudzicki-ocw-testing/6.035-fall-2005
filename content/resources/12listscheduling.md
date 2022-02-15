@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 12listscheduling.pdf
-type: OCWFile
 uid: 46360a3b-1911-6de3-e001-f6f4ce49b909
 ---

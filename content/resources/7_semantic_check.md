@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 7_semantic_check.pdf
-type: OCWFile
 uid: 41f7dfc1-9345-7961-6240-a609947159f0
 ---

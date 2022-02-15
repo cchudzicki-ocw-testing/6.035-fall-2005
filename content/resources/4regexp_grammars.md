@@ -22,6 +22,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 4regexp_grammars.pdf
-type: OCWFile
 uid: a8fd5194-949b-300d-6ecc-23f2b2cd1b94
 ---

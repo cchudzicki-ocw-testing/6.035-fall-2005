@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lowlevel_project.pdf
-type: OCWFile
 uid: ec6aaceb-c927-a3e4-86cf-1d1d858b4cf0
 ---

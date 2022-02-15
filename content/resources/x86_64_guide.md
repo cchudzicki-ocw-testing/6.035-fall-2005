@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: x86_64_guide.pdf
-type: OCWFile
 uid: b69fca13-29e6-f0dd-acc5-a055ef033f3e
 ---

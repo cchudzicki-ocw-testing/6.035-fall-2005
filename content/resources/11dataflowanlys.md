@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 11dataflowanlys.pdf
-type: OCWFile
 uid: 80d42de1-0044-c470-32e7-149d0eefff66
 ---

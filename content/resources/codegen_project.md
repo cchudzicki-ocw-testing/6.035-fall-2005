@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: codegen_project.pdf
-type: OCWFile
 uid: 60eadc25-7ec0-95f3-3437-e6b0a5924ca7
 ---

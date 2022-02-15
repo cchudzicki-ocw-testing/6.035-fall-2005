@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: decaf_spec.pdf
-type: OCWFile
 uid: d122dcaa-cafb-1664-60af-da87191441ed
 ---

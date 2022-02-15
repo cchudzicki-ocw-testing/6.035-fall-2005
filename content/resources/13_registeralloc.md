@@ -15,6 +15,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 13_registeralloc.pdf
-type: OCWFile
 uid: 1e4d5a57-621a-64b3-08dd-b52e61cff46c
 ---

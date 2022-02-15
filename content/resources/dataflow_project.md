@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: dataflow_project.pdf
-type: OCWFile
 uid: 36eff2cf-68cd-336b-d93b-63df56b52fd4
 ---

@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: scannerparser_pr.pdf
-type: OCWFile
 uid: 7c835bf8-58ed-11af-e528-2b78476ae002
 ---

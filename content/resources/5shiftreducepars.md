@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 5shiftreducepars.pdf
-type: OCWFile
 uid: ec90cc00-790c-635e-9dc2-0d9550f80a2d
 ---

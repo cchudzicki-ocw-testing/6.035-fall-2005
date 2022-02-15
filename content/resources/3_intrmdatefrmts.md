@@ -16,6 +16,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 3_intrmdatefrmts.pdf
-type: OCWFile
 uid: d9a1b8f4-c941-684e-a04b-7985fc92a441
 ---

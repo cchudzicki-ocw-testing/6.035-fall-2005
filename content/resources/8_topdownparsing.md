@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 8_topdownparsing.pdf
-type: OCWFile
 uid: cbcdbc8a-cc20-c115-5879-2e7f71a9db19
 ---

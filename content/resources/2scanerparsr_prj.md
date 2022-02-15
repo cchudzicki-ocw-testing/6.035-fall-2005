@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 2scanerparsr_prj.pdf
-type: OCWFile
 uid: eb9d5c5c-86fd-f1cb-589d-241932ad8521
 ---

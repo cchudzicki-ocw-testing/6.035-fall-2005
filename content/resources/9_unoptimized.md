@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 9_unoptimized.pdf
-type: OCWFile
 uid: 9356991f-fa76-bfde-56cc-1cf178854b34
 ---

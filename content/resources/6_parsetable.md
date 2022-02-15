@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 6_parsetable.pdf
-type: OCWFile
 uid: bb19f1ad-bcf4-3335-5063-c2c86127ebc8
 ---

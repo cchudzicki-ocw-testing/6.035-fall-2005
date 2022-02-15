@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 10_anlystrnsfrmn.pdf
-type: OCWFile
 uid: 1c52fc78-a66d-5623-fcc4-40b0a98afb77
 ---

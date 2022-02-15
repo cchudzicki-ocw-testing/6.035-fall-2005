@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: practice_quiz1.pdf
-type: OCWFile
 uid: 4f0d4420-6c46-cccf-a085-6a88d419bcf0
 ---

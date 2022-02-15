@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 14_wrapup.pdf
-type: OCWFile
 uid: b11cb4ff-a27f-6b5d-19a7-6f8be2fd93cc
 ---
