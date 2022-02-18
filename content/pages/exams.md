@@ -27,7 +27,7 @@ EXAMS
 Fall 1999
 {{< tdclose >}}
 {{< tdopen >}}
-Practice Quiz 1 ([PDF]({{< baseurl >}}/resources/practice_quiz1))
+Practice Quiz 1 ({{< resource_link 4f0d4420-6c46-cccf-a085-6a88d419bcf0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Practice Quiz 1 ([PDF]({{< baseurl >}}/resources/practice_quiz1))
 Fall 2005
 {{< tdclose >}}
 {{< tdopen >}}
-Practice Quiz 2 ([PDF]({{< baseurl >}}/resources/practice_quiz2))
+Practice Quiz 2 ({{< resource_link 430caddd-b011-7092-2698-7117d29c852c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ Practice Quiz 2 ([PDF]({{< baseurl >}}/resources/practice_quiz2))
 Fall 2004
 {{< tdclose >}}
 {{< tdopen >}}
-Practice Quiz 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practice_quiz3))
+Practice Quiz 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9e63bb61-4544-d740-1593-d88ca285693b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
