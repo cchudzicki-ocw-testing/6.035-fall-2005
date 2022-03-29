@@ -45,7 +45,7 @@ Practice Quiz 2 ({{% resource_link 430caddd-b011-7092-2698-7117d29c852c "PDF" %}
 Fall 2004
 {{< tdclose >}}
 {{< tdopen >}}
-Practice Quiz 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9e63bb61-4544-d740-1593-d88ca285693b "PDF" %}})
+Practice Quiz 3 ({{% resource_link 9e63bb61-4544-d740-1593-d88ca285693b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
