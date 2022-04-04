@@ -25,7 +25,7 @@ video_metadata:
 ---
 
 Session taught by Professor Saman Amarasinghe  
-L9: Unoptimized Code Generation (cont.) ([PDF]({{< baseurl >}}/resources/9_unoptimized))
+L9: Unoptimized Code Generation (cont.) ({{% resource_link "9356991f-fa76-bfde-56cc-1cf178854b34" "PDF" %}})
 
 Session taught by Professor Martin Rinard- No video  
 L10: Introduction to Program Analysis and Optimization ({{% resource_link "1c52fc78-a66d-5623-fcc4-40b0a98afb77" "PDF" %}})  
