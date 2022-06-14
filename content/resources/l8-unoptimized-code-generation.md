@@ -26,3 +26,4 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe  
 L8: Unoptimized Code Generation ({{% resource_link "9356991f-fa76-bfde-56cc-1cf178854b34" "PDF" %}})
+

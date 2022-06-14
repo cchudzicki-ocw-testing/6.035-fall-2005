@@ -26,3 +26,4 @@ video_metadata:
 
 Session taught by Professor Saman Amarasinghe  
 L16: Register Allocation ({{% resource_link "1e4d5a57-621a-64b3-08dd-b52e61cff46c" "PDF" %}})
+

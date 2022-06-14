@@ -45,3 +45,4 @@ L6: Intermediate Representations ({{% resource_link "d9a1b8f4-c941-684e-a04b-798
 
 Session taught by Professor Martin Rinard- No video  
 L7: Semantic Analysis ({{% resource_link "41f7dfc1-9345-7961-6240-a609947159f0" "PDF" %}})
+
