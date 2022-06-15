@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section covers course prerequisite, class format, information
+  regarding projects and project reviews, and the gradings criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

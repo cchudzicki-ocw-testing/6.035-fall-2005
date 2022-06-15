@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: 'The main course work of 6.035 is the design and implementation of a
+  compiler. In each segment of the course, a part of the compiler will be constructed.
+  The five segments are: the scanner and parser, semantic checker, code generator,
+  data-flow optimizer and instruction optimizer. All the five assignments are group
+  projects. Students may choose between two versions of the compiler project: an 18-unit
+  version (more time consuming) and a 12-unit version. The 12-unit version of the
+  project is intended to provide a hands-on experience of building a simple yet complete
+  compiler. The 18-unit version of the project is intended to also illustrate some
+  of the real world problems that arise in building industrial-strength compilers.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
