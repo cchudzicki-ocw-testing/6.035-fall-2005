@@ -7,6 +7,7 @@ file: /courses/6-035-computer-language-engineering-sma-5502-fall-2005/eb9d5c5c86
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
