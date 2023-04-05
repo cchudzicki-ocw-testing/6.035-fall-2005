@@ -23,9 +23,9 @@ start_time: ''
 title: 'L1: Course Administration Information and Overview'
 uid: 452d9077-527f-2cec-8c94-24df533a6201
 video_files:
-  video_captions_file: https://account.3playmedia.com/files/8273592/output_formats/51.vtt?transcript_id=24741262&dl=1
+  video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/k-bpyDgBxAo/default.jpg
-  video_transcript_file: https://account.3playmedia.com/files/8273592/transcript.pdf?transcript_id=24741262&dl=1&id=46
+  video_transcript_file: ''
 video_metadata:
   video_speakers: Saman Amarasinghe
   youtube_description: 'Course Administration Information and Overview
