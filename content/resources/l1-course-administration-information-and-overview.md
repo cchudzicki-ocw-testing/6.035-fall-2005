@@ -23,6 +23,7 @@ start_time: ''
 title: 'L1: Course Administration Information and Overview'
 uid: 452d9077-527f-2cec-8c94-24df533a6201
 video_files:
+  archive_url: http://www.archive.org/download/MIT6.035F05/ocw-6.035-07sep2005-220k.mp4
   video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/k-bpyDgBxAo/default.jpg
   video_transcript_file: ''
